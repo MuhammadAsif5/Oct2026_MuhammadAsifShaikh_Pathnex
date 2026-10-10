@@ -1,0 +1,4 @@
+Docker
+# Docker Installation & First Container
+docker --version
+docker run ubuntu echo "Hello Pathnex"
