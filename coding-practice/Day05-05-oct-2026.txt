@@ -38,7 +38,7 @@ stages:
     - Deploy
 
  build:
-    stage: Deploy
+    stage: build
     script:
         - docker build -t pathnex-app .
 
